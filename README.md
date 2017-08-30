@@ -1,2 +1,5 @@
 # Computadoras-y-programaci-n.
-Raygadas Báez Rodrigo 
+Nombre: Raygadas Báez Rodrigo 
+Usuario: raygadasbaezrodrigo
+Correo: kwbaezroy@gmail.com
+Asignatura: Computadoras y programación
